@@ -10,3 +10,8 @@ The executable has SDL2 linked statically and should be relocatable.
 make
 ```
 
+## Similar Projects
+
+- [cimgui-sokol-starterkit](https://github.com/floooh/cimgui-sokol-starterkit)
+
+
